@@ -1,0 +1,29 @@
+{
+	"editor.fontFamily": "consolas, monospace",
+	"terminal.integrated.shellIntegration.decorationsEnabled": true,
+	"terminal.integrated.sendKeybindingsToShell": true,
+	"debug.console.fontFamily": "Times New Roman",
+	"debug.console.collapseIdenticalLines": false,
+	"editor.fontSize": 16,
+	"problems.showCurrentInStatus": true,
+	"problems.sortOrder": "severity",
+	"problems.defaultViewMode": "table",
+	"json.schemas": [
+
+	
+	],
+	"workbench.settings.useSplitJSON": true,
+	"launch": {
+
+		"configurations": [],
+		"compounds": []
+	},
+	"terminal.integrated.shellIntegration.enabled": true,
+	"remote.autoForwardPorts": false,
+	"debug.javascript.breakOnConditionalError": true,
+	"audioCues.lineHasError": "auto",
+	"debug.onTaskErrors": "showErrors",
+	"markdown.experimental.validate.enabled": true,
+	"css.lint.argumentsInColorFunction": "error",
+	"editor.autoClosingBrackets": "always"
+}
